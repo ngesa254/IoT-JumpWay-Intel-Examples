@@ -1,4 +1,4 @@
-# IoT JumpWay Intel® Examples
+# Adam AI IoT JumpWay Intel® Examples
 
 ![IoT JumpWay Intel® Examples](images/main/IoT-JumpWay-Intel-Examples.png)
 
